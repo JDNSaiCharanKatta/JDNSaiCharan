@@ -1,7 +1,16 @@
 <h1 align="left">Hey there 👋 </h1>
 
 <h2 align="left">About me</h2>
-<p align="left"> I'm K J D N Sai Charan, a passionate AWS DevOps Engineer and Software Engineer dedicated to building robust and scalable solutions in the cloud. With a blend of cloud expertise and software engineering skills, I strive to deliver innovative solutions that drive business growth and efficiency.</p>
+<p align="left"> I'm K J D N Sai Charan! I am a dedicated and passionate DevOps Engineer with a strong focus on AWS and Python. I enjoy leveraging cloud technologies to build scalable, efficient, and resilient systems.
+
+🔭 I’m currently working on cloud infrastructure automation projects using AWS and Python.
+
+🌱 I’m currently deepening my knowledge in AWS services, CI/CD pipelines, and infrastructure as code (IaC) with tools like Terraform and AWS CloudFormation.
+
+👯 I’m looking to collaborate on projects related to cloud automation, DevOps practices, and Python development.
+
+💬 Ask me about AWS, DevOps best practices, Python scripting, and cloud infrastructure.</p>
+
 <p align="left">📚 I'm currently learning advanced DevOps practices and AWS technologies.<br>
   🎯 Goals: To become a certified AWS DevOps Engineer and contribute to building scalable cloud infrastructure.<br>
   

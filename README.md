@@ -24,3 +24,14 @@ src="https://imgs.search.brave.com/uzVFVW5AN3jkZfCqr9WFL6oFDeJplCHXlKWPlvNIAzQ/r
   <img width="12" /> 
 </div>
 
+###
+<h2 align="left">Connect with me</h2>
+<div align="left">
+  <a href="mailto:saicharank366@gmail.com">
+    <img src=" https://mail.google.com/mail/u/1/#inbox" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/saicharankatta/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+

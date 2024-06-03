@@ -27,11 +27,13 @@ src="https://imgs.search.brave.com/uzVFVW5AN3jkZfCqr9WFL6oFDeJplCHXlKWPlvNIAzQ/r
 ###
 <h2 align="left">Connect with me</h2>
 <div align="left">
-  <a href="mailto:saicharank366@gmail.com">
-    <img src=" https://mail.google.com/mail/u/1/#inbox" height="35" alt="gmail logo"  />
+<a href="mailto:saicharank366@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/saicharankatta/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+      <a href=" https://www.hackerrank.com/profile/saicharank366">
+    <img src="https://imgs.search.brave.com/lBYqFiZ1KDRqDnLu8Qv9TYZc-HjvuYrfE5hrXkG_KFg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/MTYwX0hhY2tlcnJh/bmtfbG9nb19sb2dv/cy01MTIucG5n" height="35" alt="Hackerrank logo"  />
+      </a>
 </div>
 

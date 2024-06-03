@@ -1,7 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is J D N Sai Charan Katta and I'm an aspiring AWS DevOps and Software Engineer, from ....</p>
+<h1 align="left">Hey there 👋 </h1>
+
 <h2 align="left">About me</h2>
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning advanced DevOps practices and AWS technologies.<br>🎯 Goals: To become a certified AWS DevOps Engineer and contribute to building scalable cloud infrastructure.<br>🎲 Fun fact: I enjoy automating repetitive tasks and exploring new tech trends!</p>
+<p align="left"> I'm K J D N Sai Charan, a passionate AWS DevOps Engineer and Software Engineer dedicated to building robust and scalable solutions in the cloud. With a blend of cloud expertise and software engineering skills, I strive to deliver innovative solutions that drive business growth and efficiency.</p>
+<p align="left">📚 I'm currently learning advanced DevOps practices and AWS technologies.<br>
+  🎯 Goals: To become a certified AWS DevOps Engineer and contribute to building scalable cloud infrastructure.<br>
+  
 <h2 align="left">I code with</h2>
 <div align="left">
   <img src="https://imgs.search.brave.com/pI0JG4Rx23ES7ugI3GqmfhAvGMo2jSfRAyMmDUso19w/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDgvQW1hem9uLVdl/Yi1TZXJ2aWNlcy1B/V1MtTG9nby03MDB4/Mzk0LnBuZw" height="40" alt="aws logo"  />
